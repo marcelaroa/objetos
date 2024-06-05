@@ -1,0 +1,14 @@
+/home/et12alumno/Escritorio/clase/bin/Debug/net8.0/clase
+/home/et12alumno/Escritorio/clase/bin/Debug/net8.0/clase.deps.json
+/home/et12alumno/Escritorio/clase/bin/Debug/net8.0/clase.runtimeconfig.json
+/home/et12alumno/Escritorio/clase/bin/Debug/net8.0/clase.dll
+/home/et12alumno/Escritorio/clase/bin/Debug/net8.0/clase.pdb
+/home/et12alumno/Escritorio/clase/obj/Debug/net8.0/clase.GeneratedMSBuildEditorConfig.editorconfig
+/home/et12alumno/Escritorio/clase/obj/Debug/net8.0/clase.AssemblyInfoInputs.cache
+/home/et12alumno/Escritorio/clase/obj/Debug/net8.0/clase.AssemblyInfo.cs
+/home/et12alumno/Escritorio/clase/obj/Debug/net8.0/clase.csproj.CoreCompileInputs.cache
+/home/et12alumno/Escritorio/clase/obj/Debug/net8.0/clase.dll
+/home/et12alumno/Escritorio/clase/obj/Debug/net8.0/refint/clase.dll
+/home/et12alumno/Escritorio/clase/obj/Debug/net8.0/clase.pdb
+/home/et12alumno/Escritorio/clase/obj/Debug/net8.0/clase.genruntimeconfig.cache
+/home/et12alumno/Escritorio/clase/obj/Debug/net8.0/ref/clase.dll
